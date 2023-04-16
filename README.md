@@ -48,7 +48,7 @@
         - 예) Post Details Read API - 게스트, 로그인 유저 모두 요청 가능
     - JWT 토큰 기반의 인증 방식 내에서 API 요청 시점마다 인증 여부 확인
 
-    - [Spring MVC의 Handler Interceptor에서 인증 처리 과정 정리](https://www.notion.so/Spring-MVC-Handler-Interceptor-81fc3d28c8f74959afe5de592a3ccfcf)
+    - [Spring MVC의 Handler Interceptor에서 인증 처리 과정 정리(link)](https://www.notion.so/Spring-MVC-Handler-Interceptor-81fc3d28c8f74959afe5de592a3ccfcf)
 
 
 ---
@@ -355,5 +355,5 @@
         - 포스트 리스트 조회 시 포스트의 세부 카테고리 + 최신 등록 순서로 조회 요청
         - 위 요건에 맞춰 `카테고리 + 포스트 등록 일자(최신순)` 형태의 복합 인덱스 키를 지정해서 쿼리 성능 개선
             - 데이터 수가 각각 100만 건, 500만 건이 있는 상황에서 위 복합 인덱스의 성능 테스트 진행
-            - [카테고리 + 포스트 등록 일자(최신순) 인덱스 테스트 과정 및 결과](https://www.notion.so/bf25e4dc6382435fa17925216a205ee9)
+            - [카테고리 + 포스트 등록 일자(최신순) 인덱스 테스트 과정 및 결과(link)](https://www.notion.so/bf25e4dc6382435fa17925216a205ee9)
 ---
