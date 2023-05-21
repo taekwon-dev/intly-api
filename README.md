@@ -1,16 +1,18 @@
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/70354365/189514759-c353be52-22ce-4910-99e1-421c0b0e2f5a.jpg" alt="intly-logo" width="900" height="380">
+    <img src="https://user-images.githubusercontent.com/70354365/239731607-07fd1f92-ff5a-4ac2-babc-370e1f3e9d99.png" alt="intly-logo">
 </p>
 <div align="center">
 
-### A Community for International Students All Around the World<br>
+### Int’ly 는 전세계 유학생을 위한 해외생활 소셜 플랫폼 서비스입니다. <br>
 
 </div>
 <br/>
 
 <div align="center">
 
-[![Application](http://img.shields.io/badge/Application-fc3465?style=flat&logo=github&logoColor=white&link=https://int-ly.com/)](https://int-ly.com/)
+[![Application](http://img.shields.io/badge/Application-fc3465?style=flat&logo=github&logoColor=white&link=https://int-ly.com/)](https://int-ly.com/) <br/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://int-ly.com/)
+
 </div>
 <br/>
 
@@ -41,19 +43,6 @@
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> 
 </p>
-
-
-## Infrastructures
-
-
-![image](https://user-images.githubusercontent.com/70354365/189530314-8240861c-f31b-4dbe-9e10-944610876a82.png)
-
-
-![image](https://user-images.githubusercontent.com/70354365/189530262-1e8e9e29-2763-4960-87a2-5b60af130f20.png)
-
-> <b>Int'ly</b>의 <b>초기 인프라</b>에 대해 더 자세하게 알고싶다면, [Int'ly Infrasturcture](https://medium.com/taekwon-v/devops-zext-infrastructure-ci-cd-5b4106dde554/) 글을 참고해주세요.
-
-<br/>
 
 ##  Members
 
