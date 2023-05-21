@@ -11,7 +11,7 @@
 <div align="center">
 
 [![Application](http://img.shields.io/badge/Application-fc3465?style=flat&logo=github&logoColor=white&link=https://int-ly.com/)](https://int-ly.com/) <br/>
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://int-ly.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://stealth-metal-dd1.notion.site/Int-ly-b75e869d5a8c4aa3803546817c41116c/)
 
 </div>
 <br/>
