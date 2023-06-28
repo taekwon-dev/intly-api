@@ -11,7 +11,6 @@
 <div align="center">
 
 [![Application](http://img.shields.io/badge/Application-fc3465?style=flat&logo=github&logoColor=white&link=https://int-ly.com/)](https://int-ly.com/) <br/>
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://stealth-metal-dd1.notion.site/Int-ly-b75e869d5a8c4aa3803546817c41116c/)
 
 </div>
 <br/>
@@ -26,9 +25,6 @@
 |<b>인터뷰 템플릿 작성</b>|<b>인터뷰 템플릿 조회</b>|
 |<img src=https://user-images.githubusercontent.com/70354365/190865993-8ae26afb-33bc-4695-ab26-ec58fd0b91f9.gif>|<img src=https://user-images.githubusercontent.com/70354365/190865986-61dcdd30-1781-4df9-bfa5-06d1d0ab84ae.gif>|
 
-<p align="center">
-    <b>Int'ly</b>는 전세계 유학생 <b>을 위한 해외생활 소셜 플랫폼 서비스</b>입니다.<br><br>  
-</p>
 <br/>
 
 ## Backend Tech Stacks
